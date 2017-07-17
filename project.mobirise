@@ -1,0 +1,2828 @@
+{
+  "settings": {
+    "name": "Construtora-Responsivo",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 130,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/home.png",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-7",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-192x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#bottom",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"lancamentos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">LANÇAMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"empreendimentos.html\">Empreendimentos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaeuropa.html\">Alameda Europa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaitalia.html\">Alameda Itália</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residenciamaanah.html\">Residência Maanah&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\" aria-expanded=\"false\">PORTFÓLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+        },
+        {
+          "_styles": {},
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-3l",
+          "_params": {
+            "bgColor": "#252525",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=7kn7x8sRwIQ",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-r",
+          "title": "A EMPRESA",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "Fazemos mais do que apenas construir. Nosso comprometimento é com o bom atendimento às demandas do cliente, desenvolvimento de soluções inteligentes e segurança de nossas equipes. O mundo muda, princípios não. Desde 1990, nós somos a E.A.M."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title1": "CONSTRUÇÃO",
+          "caption1": "Como construtora, atuamos em diversos setores da engenharia civil, realizando obras industriais, comerciais, na área da saúde e residenciais.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title2": "INCORPORAÇÃO",
+          "caption2": "Como incorporadora, somos responsáveis por mais de 500 unidades habitacionais em condomínios verticais e loteamento.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "sites",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title3": "ASSESSORIA",
+          "caption3": "Como assessores, realizamos aprovação de projetos, desenvolvimento de laudos técnicos, parcerias imobiliárias e outros.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "magic-stick",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title4": "SOLUÇÕES",
+          "caption4": "Como prestadores de serviços, em cada empreendimento buscamos fugir dos paradigmas para encontrarmos soluções inovadoras.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts2-t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Rua Pedro Paulo Koerig, Salto do Lontra - PR\n",
+              "placeId": "ChIJj3dD6U9X8JQR0EjD4IgcB3w",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>ENDEREÇO</b><br>Av. Harry Prochet 550, sala 1<br>Londrina, PR<br>86047610<br><br>\n<strong>CONTACTS</strong><br>Email: eam@eamconstrutora.com.br<br>Telefone: 43 3026 7487<br>Whatsapp: 43 98823 6779<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Contato</li><li>Fazenda Progresso</li><li>Imobiliária Bonato e Santos</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-1n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Projetos Luís Gustavo Borghesan"
+        }
+      ]
+    },
+    "lancamentos.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-w",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-192x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#bottom",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"lancamentos.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">LANÇAMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"empreendimentos.html\">Empreendimentos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaeuropa.html\">Alameda Europa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaitalia.html\">Alameda Itália</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residenciamaanah.html\">Residência Maanah&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\" aria-expanded=\"false\">PORTFÓLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-x",
+          "_params": {
+            "imageSize": "60",
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=7kn7x8sRwIQ",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "PROJETOS<br>ÚNICOS<br>INOVADORES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-y",
+          "title": "A EMPRESA",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "Fazemos mais do que apenas construir. Nosso comprometimento é com o bom atendimento às demandas do cliente, desenvolvimento de soluções inteligentes e segurança de nossas equipes. O mundo muda, princípios não. Desde 1990, nós somos a E.A.M."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-z",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title1": "CONSTRUÇÃO",
+          "caption1": "Como construtora, atuamos em diversos setores da engenharia civil, realizando obras industriais, comerciais, na área da saúde e residenciais.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title2": "INCORPORAÇÃO",
+          "caption2": "Como incorporadora, somos responsáveis por mais de 500 unidades habitacionais em condomínios verticais e loteamento.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "sites",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title3": "ASSESSORIA",
+          "caption3": "Como assessores, realizamos aprovação de projetos, desenvolvimento de laudos técnicos, parcerias imobiliárias e outros.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "magic-stick",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title4": "SOLUÇÕES",
+          "caption4": "Como prestadores de serviços, em cada empreendimento buscamos fugir dos paradigmas para encontrarmos soluções inovadoras.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts2-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Rua Pedro Paulo Koerig, Salto do Lontra - PR\n",
+              "placeId": "ChIJj3dD6U9X8JQR0EjD4IgcB3w",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>ENDEREÇO</b><br>Av. Harry Prochet 550, sala 1<br>Londrina, PR<br>86047610<br><br>\n<strong>CONTACTS</strong><br>Email: eam@eamconstrutora.com.br<br>Telefone: 43 3026 7487<br>Whatsapp: 43 98823 6779<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Contato</li><li>Fazenda Progresso</li><li>Imobiliária Bonato e Santos</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-1n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Projetos Luís Gustavo Borghesan"
+        }
+      ]
+    },
+    "portfolio.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 7
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-11",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-192x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#bottom",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"lancamentos.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">LANÇAMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"empreendimentos.html\">Empreendimentos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaeuropa.html\">Alameda Europa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaitalia.html\">Alameda Itália</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residenciamaanah.html\">Residência Maanah&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\" aria-expanded=\"false\">PORTFÓLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-34",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
+            "bgColor": "#3C3C3C",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "PORTFÓLIO",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "20px"
+            },
+            "P": {
+              "font-size": "15px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features1-14",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "6",
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title1": "EDIFÍCIOS",
+          "caption1": "Realização de edifícios residenciais, comerciais, loteamentos e conjuntos habitacionais.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title2": "RESIDÊNCIAS",
+          "caption2": "Execução de projetos de moradia com foco nas demandas pessoais do cliente.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "sites",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title3": "COMÉRCIO",
+          "caption3": "Construção de salas, escritórios e barracões comerciais para atender qualquer ramo de negócio.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "magic-stick",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title4": "SAÚDE",
+          "caption4": "Elaboração criteriosa de clinícas, ambulatórios, farmácias, laboratórios e sedes.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "INDÚSTRIA E PESQUISA",
+          "caption5": "Atuação com empresas nacionais e multinacionais na execução de suas variadas instalações.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "ASSESSORIA TÉCNICA",
+          "caption6": "Desenvolvimento e participação em projetos habitacionais, soluções de engenharia civil e laudos técnicos.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3a",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">Todos<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Edifícios</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">Residências</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">Comércio</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">Saúde</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">Indústria e Pesquisa</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">Acessoria Técnica</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/20170417-084127-vision-2000x2996-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170417-084127-vision-2000x2996.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-edificio-residencial-lago-parque-londrina-2000x2995-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-edificio-residencial-lago-parque-londrina-2000x2995.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-construtora-prdio-green-garden-2000x2996-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-construtora-prdio-green-garden-2000x2996.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-construtora-ultramed-laboratorio-londrina-2000x2995-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-construtora-ultramed-laboratorio-londrina-2000x2995.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/construtora-edificio-green-boulevard-londrina-2000x1124-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/construtora-edificio-green-boulevard-londrina-2000x1124.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/construir-casa-londrina-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/construir-casa-londrina-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-construtora-adama-fachada-londrina-2000x1124-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-construtora-adama-fachada-londrina-2000x1124.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-construtora-barracao-comercial-londrina-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-construtora-barracao-comercial-londrina-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-construtora-bsgi-londrina-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-construtora-bsgi-londrina-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-construtora-casa-2000x1124-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-construtora-casa-2000x1124.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-construtora-casa-condominio-londrina-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-construtora-casa-condominio-londrina-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-construtora-clinica-londrina-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-construtora-clinica-londrina-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-construtora-condominio-comercial-londrina-2000x1124-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-construtora-condominio-comercial-londrina-2000x1124.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-construtora-escola-maxi-londrina-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-construtora-escola-maxi-londrina-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-construtora-industria-adama-londrina-2000x1125-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/eam-construtora-industria-adama-londrina-2000x1125.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-construtora-londrina-consultorio-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-construtora-londrina-consultorio-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-construtora-obra-tmg-londrina-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-construtora-obra-tmg-londrina-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-construtora-residencia-londrina-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-construtora-residencia-londrina-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-construtora-saude-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-construtora-saude-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/eam-fundacao-tmg-londrina-2000x1124-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eam-fundacao-tmg-londrina-2000x1124.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/vista-bela-construcao-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vista-bela-construcao-2000x1332.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/vista-bela-equipe-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vista-bela-equipe-2000x1332.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/vista-bela-londrina-aerea-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vista-bela-londrina-aerea-2000x1328.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/vista-bela-londrina-mcmv-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vista-bela-londrina-mcmv-2000x1333.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": true,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-37",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts2-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Rua Pedro Paulo Koerig, Salto do Lontra - PR\n",
+              "placeId": "ChIJj3dD6U9X8JQR0EjD4IgcB3w",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>ENDEREÇO</b><br>Av. Harry Prochet 550, sala 1<br>Londrina, PR<br>86047610<br><br>\n<strong>CONTACTS</strong><br>Email: eam@eamconstrutora.com.br<br>Telefone: 43 3026 7487<br>Whatsapp: 43 98823 6779<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Contato</li><li>Fazenda Progresso</li><li>Imobiliária Bonato e Santos</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-1n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Projetos Luís Gustavo Borghesan"
+        }
+      ]
+    },
+    "contato.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 8
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-16",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-192x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#bottom",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"lancamentos.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">LANÇAMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"empreendimentos.html\">Empreendimentos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaeuropa.html\">Alameda Europa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaitalia.html\">Alameda Itália</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residenciamaanah.html\">Residência Maanah&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\" aria-expanded=\"false\">PORTFÓLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "30px"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2i",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
+            "bgColor": "#3C3C3C",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;CONTATO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1m",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Atendimento ao cliente, dúvidas, sugestões e outros. Mande uma mensagem!",
+          "form": {
+            "action": "gugao_sl@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefone.*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts2-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Rua Pedro Paulo Koerig, Salto do Lontra - PR\n",
+              "placeId": "ChIJj3dD6U9X8JQR0EjD4IgcB3w",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>ENDEREÇO</b><br>Av. Harry Prochet 550, sala 1<br>Londrina, PR<br>86047610<br><br>\n<strong>CONTACTS</strong><br>Email: eam@eamconstrutora.com.br<br>Telefone: 43 3026 7487<br>Whatsapp: 43 98823 6779<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Contato</li><li>Fazenda Progresso</li><li>Imobiliária Bonato e Santos</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-1n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Projetos Luís Gustavo Borghesan"
+        }
+      ]
+    },
+    "empreendimentos.html": {
+      "settings": {
+        "title": "Web Site Generator Title",
+        "meta_descr": "Web Site Generator Description",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1o",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-192x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#bottom",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"lancamentos.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">LANÇAMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"empreendimentos.html\">Empreendimentos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaeuropa.html\">Alameda Europa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaitalia.html\">Alameda Itália</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residenciamaanah.html\">Residência Maanah&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\" aria-expanded=\"false\">PORTFÓLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2e",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#3C3C3C",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LANÇAMENTOS</p>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "font-size": "15px",
+              "text-align": "center"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "center",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "features1-21",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/residencial-alameda-europa-600x450.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "alamedaeuropa.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "RESIDENCIAL ALAMEDA EUROPA",
+          "caption1": "Condomínio vertical em Londrina, PR.",
+          "button1": "<a data-app-btn=\"true\" href=\"alamedaeuropa.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SAIBA MAIS</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/residencial-alameda-italia-600x450.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "alamedaitalia.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "RESIDENCIAL ALAMEDA ITÁLIA",
+          "caption2": "Condomínio vertical em Londrina, PR.",
+          "button2": "<a data-app-btn=\"true\" href=\"alamedaitalia.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SAIBA MAIS</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/residencial-maanain-600x450.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "residenciamaanah.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "RESIDENCIAL MAANAIN",
+          "caption3": "Loteamento em Cornélio Procópio, PR.",
+          "button3": "<a data-app-btn=\"true\" href=\"residenciamaanah.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SAIBA MAIS</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "qrc:/web/app/builder/images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "#bottom",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts2-1p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Rua Pedro Paulo Koerig, Salto do Lontra - PR\n",
+              "placeId": "ChIJj3dD6U9X8JQR0EjD4IgcB3w",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>ENDEREÇO</b><br>Av. Harry Prochet 550, sala 1<br>Londrina, PR<br>86047610<br><br>\n<strong>CONTACTS</strong><br>Email: eam@eamconstrutora.com.br<br>Telefone: 43 3026 7487<br>Whatsapp: 43 98823 6779<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Contato</li><li>Fazenda Progresso</li><li>Imobiliária Bonato e Santos</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-1q",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Projetos Luís Gustavo Borghesan"
+        }
+      ]
+    },
+    "alamedaeuropa.html": {
+      "settings": {
+        "title": "Web Site Creator Title",
+        "meta_descr": "Web Site Creator Description",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1r",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-192x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#bottom",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"lancamentos.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">LANÇAMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"empreendimentos.html\">Empreendimentos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaeuropa.html\">Alameda Europa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaitalia.html\">Alameda Itália</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residenciamaanah.html\">Residência Maanah&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\" aria-expanded=\"false\">PORTFÓLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text P": {
+              "font-size": "25px",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2f",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
+            "bgColor": "#3C3C3C",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "<p>ALAMEDA EUROPA</p>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/alamedaeuropaplantabaixa-4-2000x2000.png",
+                "contentAlign": "left",
+                "overlay": false,
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "&nbsp; &nbsp; &nbsp;<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>MAIS INFORMAÇÕES<br><br>-Condições especiais de encerramento<br>-Apartamentos novos prontos para morar<br>-Financiamento pelo Minha Casa Minha Vida<br>- Aproveite Subsídio e use seu FGTS<br>-Parcelamento da entrada<br>-Garagem<br>-Sacada<br>-Piscina<br>-Churrasqueira<br>-Espaço Gourmet<br>-Quadra<br> -Portaria&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-29",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-2j",
+          "_params": {
+            "googleMap": {
+              "address": "R. Perdizes, 315 - Paraíso, Londrina - PR, Brasil",
+              "placeId": "ChIJaZZZEN5E65QR7DtAhtaZVTE",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-decorado-casal-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-decorado-casal-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-decorado-quarto-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-decorado-quarto-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-decorado-sala-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-decorado-sala-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-externa-2000x1335-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-externa-2000x1335.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-piscina-2000x1335-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-piscina-2000x1335.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-sacada-2000x1335-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-sacada-2000x1335.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-salao-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-salao-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-seguranca-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/apartamento-alameda-europa-seguranca-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "fullWidth": true,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-2l",
+          "articleLayout": true
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#a38f84",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "<p>APROVEITE ÚLTIMAS UNIDADES!</p>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            },
+            ".mbr-header .mbr-header__text P": {
+              "text-align": "left"
+            },
+            ".mbr-header .mbr-header__text DIV": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2o",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "<p>&nbsp;INTERESSADO?</p><br><p><span style=\"text-align: center; font-family: inherit; line-height: 1.5em;\">LIGUE 3324-7282 OU 99991-8743!</span></p><p></p>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts2-1s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Rua Pedro Paulo Koerig, Salto do Lontra - PR\n",
+              "placeId": "ChIJj3dD6U9X8JQR0EjD4IgcB3w",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>ENDEREÇO</b><br>Av. Harry Prochet 550, sala 1<br>Londrina, PR<br>86047610<br><br>\n<strong>CONTACTS</strong><br>Email: eam@eamconstrutora.com.br<br>Telefone: 43 3026 7487<br>Whatsapp: 43 98823 6779<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Contato</li><li>Fazenda Progresso</li><li>Imobiliária Bonato e Santos</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-1t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Projetos Luís Gustavo Borghesan"
+        }
+      ]
+    },
+    "alamedaitalia.html": {
+      "settings": {
+        "title": "Site Creator Title",
+        "meta_descr": "Site Creator Description",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1u",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-192x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#bottom",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"lancamentos.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">LANÇAMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"empreendimentos.html\">Empreendimentos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaeuropa.html\">Alameda Europa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaitalia.html\">Alameda Itália</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residenciamaanah.html\">Residência Maanah&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\" aria-expanded=\"false\">PORTFÓLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff",
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2g",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+            "bgColor": "#3C3C3C",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "<p>ALAMEDA ITÁLIA</p>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            },
+            ".mbr-header .mbr-header__text P": {
+              "font-size": "30px",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2s",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "<p>LOCALIZAÇÃO</p>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-2t",
+          "_params": {
+            "googleMap": {
+              "address": "R. Vital Ferreira Chagas - Sabará, Londrina - PR, Brasil",
+              "placeId": "EjlSLiBWaXRhbCBGZXJyZWlyYSBDaGFnYXMgLSBTYWJhcsOhLCBMb25kcmluYSAtIFBSLCBCcmFzaWw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2u",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3C3C3C",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "<p>AGUARDE O PRÉ-LANÇAMENTO!</p>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#000000",
+              "text-align": "left"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2w",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "title": "&nbsp;INTERESSADO?<br> FALE COM A GENTE!",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"contato.html\" data-toolbar=\"-mbrBtnMove\">CONTATO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts2-1v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Rua Pedro Paulo Koerig, Salto do Lontra - PR\n",
+              "placeId": "ChIJj3dD6U9X8JQR0EjD4IgcB3w",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>ENDEREÇO</b><br>Av. Harry Prochet 550, sala 1<br>Londrina, PR<br>86047610<br><br>\n<strong>CONTACTS</strong><br>Email: eam@eamconstrutora.com.br<br>Telefone: 43 3026 7487<br>Whatsapp: 43 98823 6779<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Contato</li><li>Fazenda Progresso</li><li>Imobiliária Bonato e Santos</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-1w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Projetos Luís Gustavo Borghesan"
+        }
+      ]
+    },
+    "residenciamaanah.html": {
+      "settings": {
+        "title": "Website Maker Title",
+        "meta_descr": "Website Maker Description",
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1x",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-192x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#bottom",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"lancamentos.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">LANÇAMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"empreendimentos.html\">Empreendimentos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaeuropa.html\">Alameda Europa</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alamedaitalia.html\">Alameda Itália</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residenciamaanah.html\">Residência Maanah&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\" aria-expanded=\"false\">PORTFÓLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff",
+              "text-align": "right"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2h",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgColor": "#3C3C3C",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "RESIDENCIAL MAANAIN",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">START A JOURNEY</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#124874"
+            },
+            "H1": {
+              "color": "#f97352",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "autoplay": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/loteamento-cornelio-procopio-maanain-2000x1222.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "MAIS INFORMA<br>ÇÕES",
+                "showText": true,
+                "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Terrenos a partir de 300m²<br>&nbsp; &nbsp; &nbsp; &nbsp; - Parcelamento facilitado<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Loteamento registrado<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Escritura imediata<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Infraestrutura completa<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- &nbsp;6 minutos do Centro de Cornélio Procópio",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": false
+          },
+          "_anchor": "slider-2y",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff",
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-31",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3C3C3C",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "<p>&nbsp; &nbsp;LOCALIZAÇÃO</p>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-2z",
+          "_params": {
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff",
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text DIV": {
+              "text-align": "left"
+            },
+            ".mbr-header .mbr-header__text P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-32",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#faaf40",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "<p>OBRAS EM ANDAMENTO!</p><p><span style=\"font-family: inherit; line-height: 1.5em;\">&nbsp;VISITE PLANTÃO DE VENDAS NO LOCAL!</span></p><p></p>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            },
+            ".mbr-header .mbr-header__text DIV": {
+              "text-align": "left"
+            },
+            ".mbr-header .mbr-header__text P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-33",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "<p>INTERESSADO?</p><p><span style=\"font-family: inherit; line-height: 1.5em;\">LIGUE 99627-4136!</span></p><p></p>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts2-1y",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Rua Pedro Paulo Koerig, Salto do Lontra - PR\n",
+              "placeId": "ChIJj3dD6U9X8JQR0EjD4IgcB3w",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>ENDEREÇO</b><br>Av. Harry Prochet 550, sala 1<br>Londrina, PR<br>86047610<br><br>\n<strong>CONTACTS</strong><br>Email: eam@eamconstrutora.com.br<br>Telefone: 43 3026 7487<br>Whatsapp: 43 98823 6779<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Contato</li><li>Fazenda Progresso</li><li>Imobiliária Bonato e Santos</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-1z",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Projetos Luís Gustavo Borghesan"
+        }
+      ]
+    }
+  }
+}
